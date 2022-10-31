@@ -5,6 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/social-style.css">
+    <link rel="stylesheet" href="/css/nav-style.css">
     <link rel="stylesheet" href="/css/style.css">
     <title>Pup Page</title>
 </head>
@@ -14,19 +16,21 @@
         
     </header>
     
-    <main class ="container">
-        <div class="row">
-            <div class = "col">
+    <main class ="container-lg">
+        <div class="d-flex">
+            <div class = "p-2 flex-fill">
             {{{ body }}}
             </div>
-            <nav class = "col">
-                <ul>
-                    <li>About Me</li>
-                    <li>Pics</li>
-                    <li>Stats</li>
-                    <li>Info</li>
-                </ul>
-            </nav>
+            <div class = "p-2">
+                <nav>
+                    <ul>
+                        <li><i class="fa-solid fa-paw"></i> About Me </li>
+                        <li><i class="fa-solid fa-bone"></i> Pics </li>
+                        <li><i class="fa-solid fa-paw"></i> Stats </li>
+                        <li><i class="fa-solid fa-bone"></i> Info </li>
+                    </ul>
+                </nav>
+            </div>    
         </div>
     </main>
     
@@ -46,6 +50,9 @@
             </a>
         </div>
     </footer>
-<script src="https://kit.fontawesome.com/b6f1bbf07b.js" crossorigin="anonymous"></script>
+    {{!-- Pup Page Kit --}}
+    <script src="https://kit.fontawesome.com/64a2e3ae7c.js" crossorigin="anonymous"></script>
+    {{!-- social Media kit --}}
+    <script src="https://kit.fontawesome.com/b6f1bbf07b.js" crossorigin="anonymous"></script>
 </body>
 </html>
