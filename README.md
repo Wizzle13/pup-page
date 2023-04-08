@@ -30,7 +30,7 @@
   ## Links
   GitHub Repository: https://github.com/wizzle13/pup-page
 
-  GitHub URL: https://wizzle13.github.io/pup-page
+  Heroku URL: https://pup-page.herokuapp.com/
 
 
 ![Made With](https://img.shields.io/badge/Made%20with-Ultimate%20README%20Generator-blue?style=plastic)
