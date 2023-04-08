@@ -1,0 +1,18 @@
+
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+    border: 1px  purple;
+  }
+
+.title {
+    text-align: center;
+    font-size: 20px;
+}  
+
+.stat {
+    text-align: center;
+    
+    font-size: 32px;
+}
