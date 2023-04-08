@@ -20,7 +20,11 @@
   ##### Database:
   None
   ##### Tools:
-  ![Git](https://img.shields.io/badge/Git-F05032?plastic&logo=Git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?plastic&logo=GitHub&logoColor=white)![npm](https://img.shields.io/badge/npm-CB3837?plastic&logo=npm&logoColor=white)![VSCode](https://img.shields.io/badge/VSCode-007ACC?plastic&logo=visualstudiocode&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?plastic&logo=Git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?plastic&logo=GitHub&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
+  ![npm](https://img.shields.io/badge/npm-CB3837?plastic&logo=npm&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?plastic&logo=visualstudiocode&logoColor=white)
   
   
    ## Screenshots
