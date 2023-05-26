@@ -9,6 +9,8 @@
   ## Description
   This is a simple template page for our (your) puppy to be.  With some basic pages for pictures, bio, and stat info.  
 
+  #### Reference Pokebook
+
   ### Tools and Languages used
   ##### Frontend:
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
